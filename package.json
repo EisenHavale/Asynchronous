@@ -9,6 +9,10 @@
   "author": "Eisen Havale",
   "license": "ISC",
   "devDependencies": {
-    "dotenv": "^16.4.5"
+    "dotenv": "^16.4.5",
+    "typescript": "^5.4.3"
+  },
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
   }
 }
