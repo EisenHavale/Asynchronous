@@ -1,0 +1,14 @@
+{
+  "name": "asynchronism",
+  "version": "1.0.0",
+  "description": "Simple project to practice async process",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Eisen Havale",
+  "license": "ISC",
+  "devDependencies": {
+    "dotenv": "^16.4.5"
+  }
+}
